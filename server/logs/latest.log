@@ -1,0 +1,204 @@
+[14:47:40] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:47:41] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[14:47:41] [Worker-Main-14/INFO]: Loaded 7 recipes
+[14:47:43] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[14:47:43] [Server thread/INFO]: Loading properties
+[14:47:43] [Server thread/INFO]: This server is running CraftBukkit version 2991-Spigot-018b9a0-f3f3094 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[14:47:43] [Server thread/INFO]: Debug logging is disabled
+[14:47:43] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:47:43] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:47:43] [Server thread/INFO]: Default game type: SURVIVAL
+[14:47:43] [Server thread/INFO]: Generating keypair
+[14:47:43] [Server thread/INFO]: Starting Minecraft server on localhost:25565
+[14:47:43] [Server thread/INFO]: Using default channel type
+[14:47:46] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[14:47:49] [Server thread/WARN]: Legacy plugin TestColors v1.0 does not specify an api-version.
+[14:47:49] [Server thread/INFO]: [TestColors] Loading TestColors v1.0
+[14:47:49] [Server thread/INFO]: Preparing level "world"
+[14:47:49] [Server thread/INFO]: -------- World Settings For [world] --------
+[14:47:49] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:47:49] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:47:49] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:47:49] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:47:49] [Server thread/INFO]: View Distance: 10
+[14:47:49] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[14:47:49] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:47:49] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:47:49] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[14:47:49] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:47:49] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:47:49] [Server thread/INFO]: Mob Spawn Range: 6
+[14:47:49] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:47:49] [Server thread/INFO]: Max TNT Explosions: 100
+[14:47:49] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[14:47:49] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[14:47:49] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:47:49] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:47:49] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:47:49] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:47:49] [Server thread/INFO]: View Distance: 10
+[14:47:49] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[14:47:49] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:47:49] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:47:49] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[14:47:49] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:47:49] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:47:49] [Server thread/INFO]: Mob Spawn Range: 6
+[14:47:49] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:47:49] [Server thread/INFO]: Max TNT Explosions: 100
+[14:47:49] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[14:47:49] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[14:47:49] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:47:49] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:47:49] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:47:49] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:47:49] [Server thread/INFO]: View Distance: 10
+[14:47:49] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[14:47:49] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:47:49] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:47:49] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[14:47:49] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:47:49] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:47:49] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:47:49] [Server thread/INFO]: Mob Spawn Range: 6
+[14:47:49] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:47:49] [Server thread/INFO]: Max TNT Explosions: 100
+[14:47:49] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[14:47:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:47:50] [Server thread/INFO]: Preparing spawn area: 0%
+[14:47:50] [Server thread/INFO]: Preparing spawn area: 0%
+[14:47:50] [Server thread/INFO]: Preparing spawn area: 0%
+[14:47:50] [Server thread/INFO]: Preparing spawn area: 60%
+[14:47:51] [Server thread/INFO]: Time elapsed: 1688 ms
+[14:47:51] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[14:47:52] [Server thread/INFO]: Preparing spawn area: 0%
+[14:47:52] [Server thread/INFO]: Preparing spawn area: 0%
+[14:47:52] [Server thread/INFO]: Preparing spawn area: 0%
+[14:47:52] [Worker-Main-11/INFO]: Preparing spawn area: 91%
+[14:47:53] [Worker-Main-11/INFO]: Preparing spawn area: 91%
+[14:47:53] [Worker-Main-13/INFO]: Preparing spawn area: 91%
+[14:47:54] [Worker-Main-13/INFO]: Preparing spawn area: 92%
+[14:47:54] [Worker-Main-15/INFO]: Preparing spawn area: 95%
+[14:47:54] [Server thread/INFO]: Time elapsed: 3750 ms
+[14:47:54] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[14:47:55] [Server thread/INFO]: Preparing spawn area: 0%
+[14:47:55] [Server thread/INFO]: Preparing spawn area: 6%
+[14:47:55] [Worker-Main-16/INFO]: Preparing spawn area: 83%
+[14:47:56] [Server thread/INFO]: Time elapsed: 1294 ms
+[14:47:56] [Server thread/INFO]: [TestColors] Enabling TestColors v1.0
+[14:47:56] [Server thread/INFO]: [TestColors] TestColor enabled
+[14:47:56] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:47:56] [Server thread/INFO]: Done (7.075s)! For help, type "help"
+[14:47:57] [User Authenticator #1/INFO]: UUID of player Kubas445 is 543983d9-56e7-4469-8b39-2c53e94d4b5d
+[14:47:57] [Server thread/INFO]: Kubas445[/127.0.0.1:51608] logged in with entity id 272 at ([world]115.30000001192093, 71.0, -262.30000001192093)
+[14:48:04] [Async Chat Thread - #0/INFO]: [TestColors] §x§3§b§1§8§7§b[ §x§b§2§f§4§f§etest §x§3§b§1§8§7§b]
+[14:48:04] [Async Chat Thread - #0/INFO]: <Kubas445> [38;2;59;24;123m[ [38;2;178;244;254mtest [38;2;59;24;123m][m
+[14:48:33] [Async Chat Thread - #0/INFO]: [TestColors] žxž3žbž1ž8ž7žb[ žxžbž2žfž4žfžetest žxž3žbž1ž8ž7žb]
+[14:48:33] [Async Chat Thread - #0/INFO]: <Kubas445> žxž3žbž1ž8ž7žb[ žxžbž2žfž4žfžetest žxž3žbž1ž8ž7žb][m
+[14:50:02] [Async Chat Thread - #1/INFO]: [TestColors] t dsf x
+[14:50:02] [Async Chat Thread - #1/INFO]: <Kubas445> t dsf x[m
+[14:50:06] [Async Chat Thread - #1/INFO]: [TestColors] §x§3§b§1§8§7§b[ §x§b§2§f§4§f§etest §x§3§b§1§8§7§b]
+[14:50:06] [Async Chat Thread - #1/INFO]: <Kubas445> [38;2;59;24;123m[ [38;2;178;244;254mtest [38;2;59;24;123m][m
+[15:24:30] [Server thread/INFO]: Kubas445 issued server command: /data get entity f7c8f9c5-b75a-4dc3-99b0-eeb37aa3fe16
+[15:25:09] [Server thread/INFO]: Kubas445 issued server command: /data modify entity f7c8f9c5-b75a-4dc3-99b0-eeb37aa3fe16 Invisible set value 1b
+[15:25:09] [Server thread/INFO]: [Kubas445: Modified entity data of Item Frame]
+[15:25:35] [Server thread/INFO]: Kubas445 issued server command: /data modify entity 2cf2efaf-71f1-4f4d-b257-142107fc9b10 Invisible set value 1b
+[15:25:35] [Server thread/INFO]: [Kubas445: Modified entity data of Item Frame]
+[15:26:37] [Server thread/INFO]: Kubas445 issued server command: /data modify entity dfa1428c-4873-4636-8322-d5e788d23610 Invisible set value 1b
+[15:26:37] [Server thread/INFO]: [Kubas445: Modified entity data of Item Frame]
+[15:27:21] [Server thread/INFO]: Kubas445 lost connection: Disconnected
+[15:27:21] [Server thread/INFO]: Kubas445 left the game
+[15:29:10] [User Authenticator #2/INFO]: UUID of player Kubas445 is 543983d9-56e7-4469-8b39-2c53e94d4b5d
+[15:29:10] [Server thread/INFO]: Kubas445[/127.0.0.1:53272] logged in with entity id 17079 at ([world]111.03004270420442, 71.96863554468558, -263.7359229106716)
+[15:29:15] [Async Chat Thread - #2/INFO]: [TestColors] setblock ~ ~5 ~ end_gateway 0 replace {Age:201}
+[15:29:15] [Async Chat Thread - #2/INFO]: <Kubas445> setblock ~ ~5 ~ end_gateway 0 replace {Age:201}[m
+[15:29:23] [Server thread/INFO]: Kubas445 issued server command: /setblock ~ ~5 ~ end_gateway 0 replace {Age:201}
+[15:30:00] [Server thread/INFO]: Kubas445 issued server command: /setblock ~ ~5 ~ end_gateway{Age:201} replace
+[15:30:00] [Server thread/INFO]: [Kubas445: Changed the block at 107, 94, -263]
+[15:30:04] [Server thread/INFO]: Kubas445 has made the advancement [Remote Getaway]
+[15:30:13] [Server thread/INFO]: Kubas445 issued server command: /setblock ~ ~5 ~ end_gateway{Age:2} replace
+[15:30:13] [Server thread/INFO]: [Kubas445: Changed the block at 105, 100, -265]
+[15:30:29] [Server thread/INFO]: Kubas445 issued server command: /setblock ~ ~5 ~ end_gateway{Age:0} replace
+[15:30:29] [Server thread/INFO]: [Kubas445: Changed the block at 106, 105, -266]
+[15:30:45] [Server thread/INFO]: Kubas445 issued server command: /setblock ~ ~5 ~ end_gateway{Age:100} replace
+[15:30:45] [Server thread/INFO]: [Kubas445: Changed the block at 106, 109, -266]
+[15:30:57] [Server thread/INFO]: Kubas445 issued server command: /setblock ~ ~5 ~ end_gateway{Age:300} replace
+[15:30:57] [Server thread/INFO]: [Kubas445: Changed the block at 106, 112, -269]
+[15:31:21] [Server thread/INFO]: Kubas445 issued server command: /setblock ~ ~5 ~ end_gateway{Age:20} replace
+[15:31:21] [Server thread/INFO]: [Kubas445: Changed the block at 106, 117, -271]
+[15:32:06] [Server thread/INFO]: Kubas445 issued server command: /setblock ~ ~5 ~ end_gateway{Age:-1} replace
+[15:32:06] [Server thread/INFO]: [Kubas445: Changed the block at 108, 113, -267]
+[15:32:54] [Server thread/INFO]: Kubas445 issued server command: /setblock ~ ~5 ~ end_gateway{Age:-9223372036854775808} replace
+[15:32:54] [Server thread/INFO]: [Kubas445: Changed the block at 109, 116, -264]
+[15:35:26] [Server thread/INFO]: Kubas445 issued server command: /setblock ~ ~5 ~ end_gateway{Age:999999999}
+[15:35:26] [Server thread/INFO]: [Kubas445: Changed the block at 107, 123, -264]
+[15:36:07] [Server thread/INFO]: Kubas445 issued server command: /setblock ~ ~5 ~ end_gateway{Age:-999999999}
+[15:36:07] [Server thread/INFO]: [Kubas445: Changed the block at 108, 127, -263]
+[15:42:20] [Server thread/INFO]: Kubas445 issued server command: /summon minecraft:end_crystal
+[15:42:20] [Server thread/INFO]: [Kubas445: Summoned new End Crystal]
+[15:42:31] [Server thread/INFO]: Kubas445 issued server command: /summon minecraft:end_crystal
+[15:42:31] [Server thread/INFO]: [Kubas445: Summoned new End Crystal]
+[15:42:51] [Server thread/INFO]: Kubas445 lost connection: Disconnected
+[15:42:51] [Server thread/INFO]: Kubas445 left the game
+[15:42:59] [Server thread/INFO]: Stopping the server
+[15:43:00] [Server thread/INFO]: Stopping server
+[15:43:00] [Server thread/INFO]: [TestColors] Disabling TestColors v1.0
+[15:43:00] [Server thread/INFO]: [TestColors] TestColor enabled
+[15:43:00] [Server thread/INFO]: Saving players
+[15:43:00] [Server thread/INFO]: Saving worlds
+[15:43:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:43:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:43:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[15:43:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:43:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[15:43:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:43:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:43:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:43:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
